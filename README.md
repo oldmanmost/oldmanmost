@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Привет! Я oldmanmost
 
-<!--
-**oldmanmost/oldmanmost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Чем я могу помочь
 
-Here are some ideas to get you started:
+### 🤖 Telegram-боты
+- Боты-визитки с интерактивным меню
+- Боты для сбора заявок и лидов
+- Автоворонки и умные автоответчики
+- Интеграция с CRM и платёжными системами
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Примеры работ:**
+- [Telegram Bot Portfolio](https://github.com/oldmanmost/telegram-bot-portfolio) — готовые шаблоны ботов-визиток, сборщиков лидов и FAQ-ботов.
+
+### ⚙️ Автоматизация
+- Связка Telegram + Google Таблицы
+- Make / n8n сценарии для бизнеса
+- Интеграция с AI (GPT) для автоответов
+
+**Примеры:**
+- [Automation Examples](https://github.com/oldmanmost/automation-examples) — скрипты и JSON-шаблоны для автоматизации рутинных бизнес-процессов.
+
+### 🌐 Лендинги
+- Продающие лендинги на Tilda
+- Квиз-лендинги с высокой конверсией
+- Связка лендинг + Telegram-бот под ключ
+
+**Примеры:**
+- [Landing Pages](https://github.com/oldmanmost/landing-pages) — HTML-шаблоны лендингов, квизов и примеры их интеграции с ботами.
+
+## 📊 Почему стоит работать со мной
+- ⚡ Срок выполнения задач — от 1 дня
+- 🎯 Фокус на конверсию и реальные продажи
+- 💬 Поддержка и консультации после сдачи проекта
+- 📝 Чистый, документированный код
+
+## 📞 Контакты
+- **Kwork:** [Мой профиль на Kwork](https://kwork.ru/user/noonelex)
+
+---
+
+*Все проекты выполнены с использованием современных технологий: Python, Aiogram, Tilda, Make, n8n, OpenAI API.*
